@@ -15,6 +15,9 @@ bootcamp spot(https://bootcampspot.instructure.com/courses/4841)
 ## Usage
 This application is designed to help you get a password to fit the requirements of your choosing instead of using the same password like many people do.
 
+After clicking generate password follow the on screen prompt for password length and then select the characters you wish to have in your password and your password will automatically generate at the end of the prompts.
+
+
 ## License
 MIT License
 
