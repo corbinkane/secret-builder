@@ -9,9 +9,12 @@ This application was built using HTML, CSS AND JavaScript in order to provide yo
 I was able to learn some basic fundamental to JavaScript and put that knowledge to the test while building this application
 ## Credits
 Tutor - Justin Moore
+
 VS Code(https://code.visualstudio.com/)
-google (https://www.google.com/)
-bootcamp spot(https://bootcampspot.instructure.com/courses/4841)
+
+Google (https://www.google.com/)
+
+Bootcamp spot(https://bootcampspot.instructure.com/courses/4841)
 ## Usage
 This application is designed to help you get a password to fit the requirements of your choosing instead of using the same password like many people do.
 
