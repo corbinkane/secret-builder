@@ -1,21 +1,19 @@
 # secret-builder
-create a random password generator using waht we have leaned in class
+create a random password generator using what we have learned in class
 
 ## Description
-The what? In this project we created a random password generator to be used as a quick and easy way to acquire a random password built to your specfications
+A lot of people reuse the same password over and over again for a lot of different accounts. As you can imagine this is can lead to multiple accounts getting hacked at once. Thats where this project comes into the picture, this web application is a random password generator. You can create your own randomly generated password to your specifications as in how long and the tpe of characters to be used.
 
-The why? Making a new and secure password is tough and often times I find myself reusing the same password very unsecure with this application now you can have a new and fresh password at your fingertips instantly
-
-the how? This application was built using HTML, CSS AND JavaScript in order to provide you with a new and uinque password everytime
+This application was built using HTML, CSS AND JavaScript in order to provide you with a new and uinque password everytime
 
 I was able to learn some basic fundamental to JavaScript and put that knowledge to the test while building this application
 ## Credits
 Tutor - Justin Moore
-VS Code add url
-ggogle add url
-bootcamp spot
+VS Code(https://code.visualstudio.com/)
+google (https://www.google.com/)
+bootcamp spot(https://bootcampspot.instructure.com/courses/4841)
 ## Usage
-This application is designed to help you get a password to fit the requirements of your choosing
+This application is designed to help you get a password to fit the requirements of your choosing instead of using the same password like many people do.
 
 ## License
 MIT License
